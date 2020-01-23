@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ListadoMenu"
+        android:title="@string/title_activity_listado" />
+    <item
+        android:id="@+id/acercaDeMenu"
+        android:title="@string/acerca_de_testapp" />
+    <item
+        android:id="@+id/exportarMenu"
+        android:title="@string/exportar_pregunta" />
+    <item
+        android:id="@+id/configMenu"
+        android:title="@string/configuracion" />
+    <item
+        android:id="@+id/salirMenu"
+        android:title="@string/salir" />
+</menu>

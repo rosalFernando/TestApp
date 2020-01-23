@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="title_activity_resumen">Resumen</string>
+    <string name="title_activity_listado">Listado</string>
+    <string name="title_activity_crear_editar">Pregunta</string>
+    <string name="title_activity_acerca_de">Acerca De</string>
+    <string name="imgDescription">imagen de inicio</string>
+    <string name="acerca_de_testapp">Acerca de TestApp</string>
+    <string name="TextViewListado">No se han añadido preguntas</string>
+    <string name="exportar_pregunta">Exportar Pregunta</string>
+    <string name="configuracion">Configuracion</string>
+    <string name="salir">Salir</string>
+    <string name="titulo">Titulo</string>
+    <string name="respuesta_incorrecta_1">Respuesta Incorrecta 1</string>
+    <string name="respuesta_correcta">Respuesta Correcta</string>
+    <string name="respuesta_incorrecta_2">Respuesta Incorrecta 2</string>
+    <string name="respuesta_incorrecta_3">Respuesta Incorrecta 3</string>
+    <string name="img">Imagen de pregunta</string>
+    <string name="snackBar_pregunta_creada">Pregunta creada</string>
+    <string name="snackBar_enunciado_vacio">Enunciado vacío</string>
+    <string name="snackBar_respuesta_correcta_vacio">Respuesta correcta vacía</string>
+    <string name="snackBar_respuesta_incorrecta1_vacio">Respuesta incorrecta 1 vacía</string>
+    <string name="snackBar_respuesta_incorrecta2_vacio">Respuesta incorrecta 2 vacía</string>
+    <string name="snackBar_respuesta_incorrecta3_vacio">Respuesta incorrecta 3 vacía</string>
+    <string name="snackBar_categoria_vacio">Categoria vacia</string>
+    <string name="categoria">Categoria</string>
+    <string name="nueva_categoria">Nueva Categoria</string>
+    <string name="desea_eliminar_esta_pregunta">¿Desea eliminar esta pregunta?</string>
+    <string name="aplicacion_realizada_por_fernando_del_rosal">Aplicacion realizada por Fernando del Rosal</string>
+    <string name="nota_media">Nota media</string>
+    <string name="preguntas_disponibles">Preguntas disponibles</string>
+    <string name="categorias_disponibles">Categorias Disponibles</string>
+    <string name="cuestionarios_realizados">Cuestionarios realizados</string>
+    <string name="aniade">Añadir</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="cat_vacia">Categoria Vacia</string>
+    <string name="error_imagen">Error. No se puede guardar la imagen</string>
+    <string name="elige_imagen">Elige una imagen</string>
+    <string name="permiso_internet_garantizado">Tienes permiso de internet</string>
+    <string name="permiso_internet_denegado">No tienes permiso de internet</string>
+    <string name="permiso_escritura_garantizado">Tienes permiso de Escritura</string>
+    <string name="permiso_escritura_denegado">No tienes permiso de Escritura</string>
+    <string name="permiso_escritura_no_aceptado">No has aceptado el permiso de Escritura</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="_0">0</string>
+    <string name="pregunta_eliminada">Pregunta Eliminada</string>
+    <string name="pregunta_no_creada">Esta pregunta no se ha creado</string>
+
+
+
+
+</resources>

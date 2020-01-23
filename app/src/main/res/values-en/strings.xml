@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="TextViewListado">No questions have been added</string>
+    <string name="_0">0</string>
+    <string name="acerca_de_testapp">About TestApp</string>
+    <string name="aniade">Add</string>
+    <string name="aplicacion_realizada_por_fernando_del_rosal">application made by Fernando del Rosal</string>
+    <string name="cancelar">Cancel</string>
+    <string name="cat_vacia">Empty Category</string>
+    <string name="categoria">Category</string>
+    <string name="categorias_disponibles">"Accessible Categories "</string>
+    <string name="configuracion">Configuration</string>
+    <string name="cuestionarios_realizados">Questionnaires carried out</string>
+    <string name="desea_eliminar_esta_pregunta">¿Do you want to eliminate this question?</string>
+    <string name="elige_imagen">Choose an image</string>
+    <string name="error_imagen">" Error. The image can not be saved"</string>
+    <string name="exportar_pregunta">"Export question "</string>
+    <string name="img">Image Question</string>
+    <string name="imgDescription">start image</string>
+    <string name="nota_media">"Average grade "</string>
+    <string name="nueva_categoria">New Categori</string>
+    <string name="permiso_escritura_denegado">You do not have writing permission</string>
+    <string name="permiso_escritura_no_aceptado">You have writing permission</string>
+    <string name="permiso_escritura_garantizado">You have writing permission</string>
+    <string name="permiso_internet_denegado">You do not have internet permission</string>
+    <string name="permiso_internet_garantizado">You have internet permission</string>
+    <string name="preguntas_disponibles">Questions available</string>
+    <string name="respuesta_correcta">Correct answer</string>
+    <string name="respuesta_incorrecta_2">Incorrect answer 2</string>
+    <string name="respuesta_incorrecta_3">Incorrect answer 3</string>
+    <string name="respuesta_incorrecta_1">Incorrect answer 1</string>
+    <string name="salir">Exit</string>
+    <string name="snackBar_categoria_vacio">Empty Category</string>
+    <string name="snackBar_enunciado_vacio">Empty statement</string>
+    <string name="snackBar_pregunta_creada">Question created</string>
+    <string name="snackBar_respuesta_correcta_vacio">Empty correct answer</string>
+    <string name="snackBar_respuesta_incorrecta1_vacio">Empty correct answer 1</string>
+    <string name="snackBar_respuesta_incorrecta2_vacio">Empty correct answer 2</string>
+    <string name="snackBar_respuesta_incorrecta3_vacio">Empty correct answer 3</string>
+    <string name="title_activity_acerca_de">About us</string>
+    <string name="title_activity_crear_editar">Question</string>
+    <string name="title_activity_listado">List</string>
+    <string name="title_activity_resumen">Summary</string>
+    <string name="titulo">Title</string>
+    <string name="aceptar" translatable="false">Acepted</string>
+    <string name="pregunta_eliminada">Question deleted</string>
+    <string name="pregunta_no_creada">This question is not created</string>
+</resources>
